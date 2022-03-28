@@ -204,21 +204,13 @@ body{
     justify-content: space-around;
     align-items: center;
 }
-.btn-1{
-    width: 116px;
-    height: 51px;
-    left: 0px;
-    top: 0px;
-    color: #2A7AE4;
-    border: 1px solid #2A7AE4;
-    box-sizing: border-box;
-}
 .btn-2{
-    width: 105px;
-    height: 51px;
-    left: 132px;
-    top: 0px;
-    background: #2A7AE4;
+    border-radius: 5px;
+    padding: 10px 7px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #333;
+    margin: .2rem;
 }
 .prof-title{
     font-style: normal;
@@ -231,6 +223,7 @@ body{
     font-weight: 500px;
     font-size: 16px;
     line-height: 19px;
+    margin-bottom: 1rem;
 }
 .contact{
     display: flex;
@@ -293,3 +286,4 @@ footer{
     font-size: 1.2rem;
     font-weight: bold;
 }
+
